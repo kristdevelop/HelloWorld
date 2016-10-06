@@ -6,11 +6,13 @@ eesmärk jooksutada programmi, mis annaks tulemusena tervituse
 Kasutusjuhend:
 Jooksuta terminalis koodi nimega HelloWorld.java
 
-Litsents
+Litsents,
 kasutatud IntelliJ
 
 Detailsemalt,
+
 SET UP, vajalike programmide instaleerimine
+
 a) Java 8 
 b) IntelliJ
 
