@@ -21,4 +21,4 @@ Kullis-MacBook-Pro:Desktop kylli$ java HelloWorld
 Hello, World is worth to see!
  
  
-GENERATED README attached, IntelliJ:
+GENERATED README, IntelliJ
