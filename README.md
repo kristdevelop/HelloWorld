@@ -2,7 +2,7 @@
  Java 8 
  IntelliJ
  
-# HelloWorld CODE
+HelloWorld CODE:
 public class HelloWorld {     public static void main(String args[]) {         System.out.println("Hello, World is worth to see!");     } }
 
 HelloWorld.java compile & run:
