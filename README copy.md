@@ -1,6 +1,18 @@
- SET UP programmide instaleerimine
- Java 8 
- IntelliJ
+#Nimi: kood HelloWorld
+
+Projekti kirjeldus: 
+eesmärk jooksutada programmi, mis annaks tulemusena tervituse
+
+Kasutusjuhend:
+Jooksuta terminalis koodi nimega HelloWorld.java
+
+Litsents
+kasutatud IntelliJ
+
+Detailsemalt,
+SET UP, vajalike programmide instaleerimine
+a) Java 8 
+b) IntelliJ
  
 HelloWorld KOODI KOOPIA:
 
